@@ -39,7 +39,7 @@ public class SLLMain {
         sll.removeAt(0);
         sll.print();
 
-        //  MODIFIKASI: Input dari Keyboard (Pertanyaan 2.1 no.3) 
+        // Memodifikasi: Input dari Keyboard (Pertanyaan 2.1 no.3) 
         Scanner sc = new Scanner(System.in);
         System.out.println("=== Tambah Data dari Keyboard ===");
         System.out.print("NIM    : "); String nim   = sc.nextLine();
